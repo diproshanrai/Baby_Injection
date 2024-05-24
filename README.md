@@ -1,6 +1,7 @@
 # Baby_Injection
-A web app to remind parents of their babies' vaccine dates. Functional but needs improvement. Future plans to enhance it after gaining more experience.
-# Vaccine Reminder Web App
+A web app to remind parents of their babies' vaccine dates. Functional but needs improvement—plans to enhance it after gaining more experience.
+# Vaccine Reminder Web App (Baby Injection)
+This app was created in 2022 and nothing has been done from that time so maybe a new update may have come in react will want some correction.
 
 ## Project Overview
 This was my Final Year Project where I created a web app that helps in reminding parents about the vaccine dates of their babies by registering them.
@@ -21,7 +22,7 @@ In the future, after gaining much more experience, I will work on this project a
 - Future enhancements to include vaccine reminders for dogs and cats.
 
 ## Installation
-This project was made with React in 2022.
+React
 
 ## Contribution
 Anyone can contribute to the project if they can help make it more beautiful.
